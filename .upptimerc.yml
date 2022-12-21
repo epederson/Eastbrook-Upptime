@@ -4,13 +4,13 @@ repo: Eastbrook-Upptime # The name of this repository
 
 sites:
   - name: Eastbrook.org
-    url: https://eastbrook.org/
+    url: $EASTBROOK_MAIN_SITE
   - name: EastbrookAcademy.org
-    url: https://eastbrookacademy.org/
+    url: $EASTBROOK_ACADEMY_MAIN_SITE
   - name: Asset Management System
-    url: https://assets.eastbrook.church/
-  - name: Help
-    url: https://helpdesk.eastbrook.church/
+    url: $ASSET_MANAGEMENT
+  - name: Help Desk
+    url: $HELP_DESK
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
