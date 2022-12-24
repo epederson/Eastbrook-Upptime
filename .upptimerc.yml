@@ -15,6 +15,10 @@ sites:
     check: "tcp-ping"
     url: $EASTBROOK_CAMPUS
     port: 10443
+  - name: OAW
+    check: "tcp-ping"
+    url: $OAW
+    port: 10443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
