@@ -15,9 +15,9 @@ sites:
     check: "tcp-ping"
     url: $EASTBROOK_CAMPUS
     port: 10443
-  - name: OAW
+  - name: EP
     check: "tcp-ping"
-    url: $OAW
+    url: $EP
     port: 10443
 
 status-website:
