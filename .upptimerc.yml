@@ -16,6 +16,7 @@ sites:
     url: $EASTBROOK_CAMPUS
     port: 10443
   - name: EP
+    check: "ping"
     url: $EP
 
 status-website:
