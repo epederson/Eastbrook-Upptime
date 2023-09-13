@@ -27,9 +27,9 @@
     "url": "$EASTBROOK_ACADEMY_MAIN_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastbrook-academy-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 307,
     "timeMonth": 342,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "Asset Management System",
@@ -64,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "99.17%",
+    "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.32%",
-    "uptimeMonth": "95.93%",
-    "uptimeYear": "99.17%",
+    "uptimeWeek": "77.98%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "99.05%",
     "time": 635,
     "timeDay": 0,
     "timeWeek": 278,
     "timeMonth": 263,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-09-13": 34,
+      "2023-09-13": 472,
       "2023-09-12": 1440,
       "2023-09-11": 308,
       "2023-05-31": 259,
