@@ -45,19 +45,19 @@
     "url": "$ASSET_MANAGEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asset-management-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 271,
-    "timeWeek": 350,
-    "timeMonth": 355,
+    "timeDay": 292,
+    "timeWeek": 346,
+    "timeMonth": 354,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-10": 10
     }
   },
   {
