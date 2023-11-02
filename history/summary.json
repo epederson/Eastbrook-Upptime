@@ -63,7 +63,7 @@
     "url": "$HELP_DESK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
     "uptimeDay": "92.06%",
     "uptimeWeek": "98.87%",
