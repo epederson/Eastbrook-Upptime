@@ -119,9 +119,9 @@
     "url": "$EP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
@@ -131,6 +131,7 @@
     "timeMonth": 31,
     "timeYear": 36,
     "dailyMinutesDown": {
+      "2023-11-28": 0,
       "2023-09-26": 36,
       "2023-04-20": 763,
       "2023-04-19": 262
