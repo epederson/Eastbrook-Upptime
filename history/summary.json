@@ -6,13 +6,13 @@
     "slug": "eastbrook-web-site",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.70%",
     "time": 462,
-    "timeDay": 210,
-    "timeWeek": 216,
+    "timeDay": 262,
+    "timeWeek": 222,
     "timeMonth": 639,
     "timeYear": 459,
     "dailyMinutesDown": {
@@ -64,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 379,
-    "timeDay": 320,
-    "timeWeek": 459,
-    "timeMonth": 402,
+    "time": 380,
+    "timeDay": 323,
+    "timeWeek": 439,
+    "timeMonth": 403,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2024-03-19": 834,
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 394,
-    "timeDay": 404,
-    "timeWeek": 407,
+    "timeDay": 549,
+    "timeWeek": 426,
     "timeMonth": 503,
-    "timeYear": 407,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2025-01-04": 73,
       "2024-10-03": 266
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 310,
-    "timeDay": 159,
-    "timeWeek": 263,
-    "timeMonth": 263,
+    "timeDay": 320,
+    "timeWeek": 259,
+    "timeMonth": 268,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2025-01-11": 34,
@@ -123,8 +123,7 @@
       "2024-07-18": 104,
       "2024-04-20": 118,
       "2024-04-01": 129,
-      "2024-03-13": 101,
-      "2024-02-22": 103
+      "2024-03-13": 101
     }
   },
   {
@@ -139,8 +138,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 37,
-    "timeDay": 23,
-    "timeWeek": 46,
+    "timeDay": 27,
+    "timeWeek": 43,
     "timeMonth": 34,
     "timeYear": 29,
     "dailyMinutesDown": {
@@ -153,7 +152,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "33.06%",
+    "uptime": "33.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -164,7 +163,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 49,
+      "2025-02-21": 49,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -527,8 +527,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   }
 ]
