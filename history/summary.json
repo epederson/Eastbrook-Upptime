@@ -6,14 +6,14 @@
     "slug": "eastbrook-web-site",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.72%",
-    "time": 449,
-    "timeDay": 233,
-    "timeWeek": 224,
-    "timeMonth": 214,
+    "time": 448,
+    "timeDay": 66,
+    "timeWeek": 216,
+    "timeMonth": 213,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2025-03-07": 21,
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 380,
-    "timeDay": 330,
-    "timeWeek": 369,
-    "timeMonth": 391,
+    "timeDay": 534,
+    "timeWeek": 401,
+    "timeMonth": 390,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2024-03-19": 834,
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 396,
-    "timeDay": 525,
-    "timeWeek": 405,
-    "timeMonth": 365,
-    "timeYear": 406,
+    "timeDay": 261,
+    "timeWeek": 384,
+    "timeMonth": 361,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-01-04": 73,
       "2024-10-03": 266
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 304,
-    "timeDay": 136,
-    "timeWeek": 269,
+    "timeDay": 278,
+    "timeWeek": 288,
     "timeMonth": 259,
     "timeYear": 314,
     "dailyMinutesDown": {
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 36,
-    "timeDay": 23,
-    "timeWeek": 23,
+    "time": 35,
+    "timeDay": 54,
+    "timeWeek": 28,
     "timeMonth": 32,
-    "timeYear": 29,
+    "timeYear": 30,
     "dailyMinutesDown": {
       "2024-10-29": 129
     }
@@ -152,7 +152,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "32.29%",
+    "uptime": "32.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -163,7 +163,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 39,
+      "2025-03-09": 43,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -526,8 +527,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   }
 ]
