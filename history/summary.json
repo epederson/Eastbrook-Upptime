@@ -11,9 +11,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.65%",
     "time": 493,
-    "timeDay": 1920,
-    "timeWeek": 332,
-    "timeMonth": 680,
+    "timeDay": 265,
+    "timeWeek": 334,
+    "timeMonth": 682,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2025-04-21": 16,
@@ -77,10 +77,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 310,
-    "timeWeek": 401,
-    "timeMonth": 356,
+    "time": 379,
+    "timeDay": 314,
+    "timeWeek": 402,
+    "timeMonth": 351,
     "timeYear": 389,
     "dailyMinutesDown": {}
   },
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 398,
-    "timeDay": 329,
-    "timeWeek": 365,
-    "timeMonth": 397,
-    "timeYear": 405,
+    "time": 399,
+    "timeDay": 619,
+    "timeWeek": 403,
+    "timeMonth": 408,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2025-01-04": 73,
       "2024-10-03": 266
@@ -116,11 +116,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.59%",
-    "time": 427,
-    "timeDay": 3834,
-    "timeWeek": 3958,
-    "timeMonth": 1904,
-    "timeYear": 498,
+    "time": 428,
+    "timeDay": 3635,
+    "timeWeek": 3967,
+    "timeMonth": 1910,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-04-22": 47,
       "2025-04-21": 29,
@@ -147,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 30,
-    "timeDay": 27,
-    "timeWeek": 34,
-    "timeMonth": 34,
+    "timeDay": 28,
+    "timeWeek": 35,
+    "timeMonth": 33,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2024-10-29": 129
@@ -172,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 1369,
+      "2025-04-23": 54,
+      "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -535,8 +536,7 @@
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
-      "2024-04-24": 1440,
-      "2024-04-23": 1440
+      "2024-04-24": 1440
     }
   }
 ]
