@@ -1,7 +1,7 @@
 url: $ASSET_MANAGEMENT
-status: down
-code: 500
-responseTime: 310
-lastUpdated: 2025-05-17T23:22:25.577Z
+status: up
+code: 200
+responseTime: 174
+lastUpdated: 2025-05-18T05:18:37.798Z
 startTime: 2022-12-21T17:35:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
