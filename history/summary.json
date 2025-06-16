@@ -11,9 +11,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.59%",
     "time": 549,
-    "timeDay": 231,
-    "timeWeek": 245,
-    "timeMonth": 348,
+    "timeDay": 235,
+    "timeWeek": 244,
+    "timeMonth": 347,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-06-15": 18,
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 534,
-    "timeWeek": 386,
-    "timeMonth": 403,
+    "time": 382,
+    "timeDay": 310,
+    "timeWeek": 364,
+    "timeMonth": 396,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -105,12 +105,12 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "87.42%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "98.87%",
-    "time": 391,
-    "timeDay": 403,
-    "timeWeek": 360,
-    "timeMonth": 335,
+    "time": 390,
+    "timeDay": 397,
+    "timeWeek": 339,
+    "timeMonth": 336,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-06-09": 66,
@@ -135,10 +135,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 645,
-    "timeDay": 414,
-    "timeWeek": 276,
-    "timeMonth": 282,
-    "timeYear": 754,
+    "timeDay": 417,
+    "timeWeek": 268,
+    "timeMonth": 284,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-05-08": 201,
       "2025-05-07": 46,
@@ -170,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 30,
-    "timeDay": 52,
-    "timeWeek": 27,
-    "timeMonth": 28,
+    "timeDay": 24,
+    "timeWeek": 22,
+    "timeMonth": 26,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2024-10-29": 129
@@ -184,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "28.22%",
+    "uptime": "28.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -195,7 +195,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 320,
+      "2025-06-16": 60,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -558,8 +559,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   }
 ]
