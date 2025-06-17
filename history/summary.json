@@ -106,7 +106,7 @@
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.26%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "98.87%",
     "time": 391,
     "timeDay": 325,
@@ -164,10 +164,10 @@
     "url": "$EASTBROOK_CAMPUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastbrook-campus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 30,
@@ -176,6 +176,7 @@
     "timeMonth": 25,
     "timeYear": 30,
     "dailyMinutesDown": {
+      "2025-06-17": 2,
       "2024-10-29": 129
     }
   },
@@ -185,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "28.16%",
+    "uptime": "28.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -196,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 58,
+      "2025-06-17": 420,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
