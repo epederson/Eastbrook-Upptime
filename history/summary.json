@@ -107,7 +107,7 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.32%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "98.87%",
     "time": 391,
     "timeDay": 406,
@@ -167,9 +167,9 @@
     "slug": "eastbrook-campus",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 30,
     "timeDay": 43,
@@ -177,8 +177,7 @@
     "timeMonth": 27,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2025-06-18": 0,
-      "2025-06-17": 39,
+      "2025-06-17": 34,
       "2024-10-29": 129
     }
   },
@@ -199,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-18": 2,
+      "2025-06-18": 58,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
