@@ -4,11 +4,11 @@
     "url": "$EASTBROOK_MAIN_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastbrook-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.53%",
     "time": 636,
     "timeDay": 20011,
@@ -16,6 +16,7 @@
     "timeMonth": 2205,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2025-07-22": 1,
       "2025-07-21": 37,
       "2025-07-17": 16,
       "2025-07-16": 23,
@@ -84,8 +85,7 @@
       "2024-10-22": 182,
       "2024-10-21": 29,
       "2024-10-20": 60,
-      "2024-10-19": 51,
-      "2024-10-16": 17
+      "2024-10-19": 51
     }
   },
   {
@@ -140,7 +140,7 @@
     "slug": "help-desk",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "93.74%",
+    "uptimeDay": "94.49%",
     "uptimeWeek": "91.42%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "99.32%",
@@ -199,7 +199,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "26.95%",
+    "uptime": "26.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -210,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-22": 618,
+      "2025-07-22": 952,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
