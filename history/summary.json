@@ -4,18 +4,19 @@
     "url": "$EASTBROOK_MAIN_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastbrook-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.53%",
     "time": 635,
-    "timeDay": 227,
-    "timeWeek": 229,
-    "timeMonth": 1594,
-    "timeYear": 722,
+    "timeDay": 219,
+    "timeWeek": 227,
+    "timeMonth": 1568,
+    "timeYear": 721,
     "dailyMinutesDown": {
+      "2025-08-02": 1,
       "2025-07-29": 17,
       "2025-07-21": 37,
       "2025-07-17": 16,
@@ -85,7 +86,7 @@
       "2024-10-22": 182,
       "2024-10-21": 29,
       "2024-10-20": 60,
-      "2024-10-19": 51
+      "2024-10-19": 34
     }
   },
   {
@@ -201,7 +202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "26.61%",
+    "uptime": "26.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -212,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 59,
+      "2025-08-02": 1157,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
