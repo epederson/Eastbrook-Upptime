@@ -1,7 +1,7 @@
 url: $EASTBROOK_MAIN_SITE
-status: down
-code: 403
-responseTime: 208
-lastUpdated: 2025-08-19T04:50:11.023Z
+status: up
+code: 200
+responseTime: 254
+lastUpdated: 2025-08-19T04:56:22.544Z
 startTime: 2022-12-21T18:27:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
