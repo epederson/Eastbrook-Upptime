@@ -6,17 +6,16 @@
     "slug": "eastbrook-web-site",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.53%",
-    "time": 628,
-    "timeDay": 217,
-    "timeWeek": 254,
-    "timeMonth": 233,
+    "time": 629,
+    "timeDay": 241,
+    "timeWeek": 264,
+    "timeMonth": 234,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-09-11": 6,
       "2025-08-21": 15,
       "2025-08-16": 22,
       "2025-08-10": 22,
@@ -88,7 +87,7 @@
       "2024-10-23": 16,
       "2024-10-22": 182,
       "2024-10-21": 29,
-      "2024-10-20": 43
+      "2024-10-20": 60
     }
   },
   {
@@ -103,9 +102,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 405,
-    "timeDay": 360,
-    "timeWeek": 418,
-    "timeMonth": 640,
+    "timeDay": 367,
+    "timeWeek": 409,
+    "timeMonth": 641,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-08-19": 51
@@ -123,10 +122,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 397,
-    "timeDay": 424,
-    "timeWeek": 348,
-    "timeMonth": 435,
-    "timeYear": 416,
+    "timeDay": 447,
+    "timeWeek": 353,
+    "timeMonth": 437,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-06-09": 66,
       "2025-05-19": 1057,
@@ -150,10 +149,10 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.34%",
     "time": 863,
-    "timeDay": 258,
-    "timeWeek": 232,
-    "timeMonth": 303,
-    "timeYear": 1003,
+    "timeDay": 409,
+    "timeWeek": 259,
+    "timeMonth": 308,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-08-22": 135,
       "2025-07-25": 279,
@@ -193,8 +192,8 @@
     "uptimeYear": "99.97%",
     "time": 30,
     "timeDay": 4,
-    "timeWeek": 21,
-    "timeMonth": 31,
+    "timeWeek": 19,
+    "timeMonth": 30,
     "timeYear": 31,
     "dailyMinutesDown": {
       "2025-06-17": 34,
@@ -207,7 +206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "25.37%",
+    "uptime": "25.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -218,7 +217,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 1184,
+      "2025-09-12": 50,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -581,8 +581,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 1440,
-      "2024-09-12": 1440
+      "2024-09-13": 1440
     }
   }
 ]
