@@ -11,10 +11,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.53%",
     "time": 628,
-    "timeDay": 229,
-    "timeWeek": 245,
-    "timeMonth": 242,
-    "timeYear": 692,
+    "timeDay": 1467,
+    "timeWeek": 340,
+    "timeMonth": 264,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2025-08-21": 15,
       "2025-08-16": 22,
@@ -101,10 +101,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 406,
-    "timeDay": 561,
-    "timeWeek": 412,
-    "timeMonth": 639,
+    "time": 405,
+    "timeDay": 307,
+    "timeWeek": 405,
+    "timeMonth": 634,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-08-19": 51
@@ -122,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 398,
-    "timeDay": 600,
-    "timeWeek": 465,
-    "timeMonth": 437,
+    "timeDay": 476,
+    "timeWeek": 473,
+    "timeMonth": 443,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-06-09": 66,
@@ -148,10 +148,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.34%",
-    "time": 863,
-    "timeDay": 178,
-    "timeWeek": 280,
-    "timeMonth": 304,
+    "time": 862,
+    "timeDay": 228,
+    "timeWeek": 276,
+    "timeMonth": 302,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-08-22": 135,
@@ -186,17 +186,16 @@
     "slug": "eastbrook-campus",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 30,
-    "timeDay": 52,
-    "timeWeek": 13,
+    "timeDay": 19,
+    "timeWeek": 15,
     "timeMonth": 27,
     "timeYear": 31,
     "dailyMinutesDown": {
-      "2025-09-17": 15,
       "2025-06-17": 34,
       "2024-10-29": 129
     }
@@ -207,7 +206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "25.20%",
+    "uptime": "25.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -218,7 +217,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-17": 1050,
+      "2025-09-18": 51,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -581,8 +581,7 @@
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
-      "2024-09-19": 1440,
-      "2024-09-18": 1440
+      "2024-09-19": 1440
     }
   }
 ]
