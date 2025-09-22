@@ -8,13 +8,13 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 628,
-    "timeDay": 295,
-    "timeWeek": 333,
-    "timeMonth": 266,
-    "timeYear": 692,
+    "timeDay": 235,
+    "timeWeek": 353,
+    "timeMonth": 264,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-08-21": 15,
       "2025-08-16": 22,
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 406,
-    "timeDay": 483,
-    "timeWeek": 418,
-    "timeMonth": 628,
+    "timeDay": 309,
+    "timeWeek": 408,
+    "timeMonth": 623,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2025-08-19": 51
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
-    "time": 399,
-    "timeDay": 524,
-    "timeWeek": 475,
-    "timeMonth": 440,
-    "timeYear": 418,
+    "time": 400,
+    "timeDay": 713,
+    "timeWeek": 535,
+    "timeMonth": 438,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2025-06-09": 66,
       "2025-05-19": 1057,
@@ -149,9 +149,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.34%",
     "time": 863,
-    "timeDay": 415,
-    "timeWeek": 306,
-    "timeMonth": 303,
+    "timeDay": 396,
+    "timeWeek": 330,
+    "timeMonth": 301,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-08-22": 135,
@@ -191,8 +191,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 30,
-    "timeDay": 31,
-    "timeWeek": 23,
+    "timeDay": 20,
+    "timeWeek": 25,
     "timeMonth": 27,
     "timeYear": 31,
     "dailyMinutesDown": {
@@ -206,7 +206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "25.10%",
+    "uptime": "25.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -217,7 +217,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-21": 57,
+      "2025-09-22": 57,
+      "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
@@ -580,8 +581,7 @@
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
-      "2024-09-23": 1440,
-      "2024-09-22": 1440
+      "2024-09-23": 1440
     }
   }
 ]
