@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.64%",
     "time": 690,
-    "timeDay": 312,
-    "timeWeek": 167,
-    "timeMonth": 217,
+    "timeDay": 184,
+    "timeWeek": 174,
+    "timeMonth": 216,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-10-23": 43,
@@ -79,8 +79,7 @@
       "2024-11-22": 36,
       "2024-11-20": 64,
       "2024-11-19": 19,
-      "2024-11-11": 18,
-      "2024-10-28": 27
+      "2024-11-11": 18
     }
   },
   {
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 402,
-    "timeDay": 326,
-    "timeWeek": 355,
-    "timeMonth": 409,
+    "timeDay": 383,
+    "timeWeek": 344,
+    "timeMonth": 404,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2025-08-19": 51
@@ -114,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 405,
-    "timeDay": 296,
-    "timeWeek": 472,
-    "timeMonth": 462,
-    "timeYear": 428,
+    "time": 406,
+    "timeDay": 565,
+    "timeWeek": 447,
+    "timeMonth": 454,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2025-06-09": 66,
       "2025-05-19": 1057,
@@ -135,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "84.58%",
-    "uptimeWeek": "59.17%",
-    "uptimeMonth": "90.51%",
+    "uptime": "99.30%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "59.23%",
+    "uptimeMonth": "90.52%",
     "uptimeYear": "98.57%",
     "time": 1085,
-    "timeDay": 7410,
-    "timeWeek": 4477,
-    "timeMonth": 3200,
+    "timeDay": 7413,
+    "timeWeek": 4471,
+    "timeMonth": 3203,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2025-10-27": 206,
+      "2025-10-27": 200,
       "2025-10-26": 158,
       "2025-10-25": 101,
       "2025-10-24": 1198,
@@ -191,8 +190,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 30,
-    "timeDay": 17,
-    "timeWeek": 17,
+    "timeDay": 26,
+    "timeWeek": 14,
     "timeMonth": 25,
     "timeYear": 30,
     "dailyMinutesDown": {
@@ -217,7 +216,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-27": 1311,
+      "2025-10-28": 53,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -580,8 +580,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   }
 ]
