@@ -1,7 +1,7 @@
 url: $HELP_DESK
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-04T06:47:15.649Z
+status: up
+code: 200
+responseTime: 1047
+lastUpdated: 2025-11-04T06:57:40.760Z
 startTime: 2022-12-21T18:25:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
