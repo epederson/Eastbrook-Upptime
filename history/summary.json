@@ -6,17 +6,16 @@
     "slug": "eastbrook-web-site",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.65%",
     "time": 678,
-    "timeDay": 184,
-    "timeWeek": 226,
-    "timeMonth": 191,
+    "timeDay": 172,
+    "timeWeek": 220,
+    "timeMonth": 192,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-11-19": 10,
       "2025-10-23": 43,
       "2025-08-21": 15,
       "2025-08-16": 22,
@@ -77,8 +76,7 @@
       "2024-11-26": 45,
       "2024-11-25": 17,
       "2024-11-24": 26,
-      "2024-11-22": 36,
-      "2024-11-20": 64
+      "2024-11-22": 36
     }
   },
   {
@@ -92,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 403,
-    "timeDay": 490,
-    "timeWeek": 437,
-    "timeMonth": 364,
-    "timeYear": 413,
+    "time": 404,
+    "timeDay": 584,
+    "timeWeek": 452,
+    "timeMonth": 373,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-08-19": 51
     }
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 411,
-    "timeDay": 545,
-    "timeWeek": 550,
-    "timeMonth": 484,
-    "timeYear": 436,
+    "time": 412,
+    "timeDay": 482,
+    "timeWeek": 533,
+    "timeMonth": 490,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2025-06-09": 66,
       "2025-05-19": 1057,
@@ -139,8 +137,8 @@
     "uptimeMonth": "87.18%",
     "uptimeYear": "98.61%",
     "time": 1451,
-    "timeDay": 159,
-    "timeWeek": 453,
+    "timeDay": 325,
+    "timeWeek": 337,
     "timeMonth": 3787,
     "timeYear": 1700,
     "dailyMinutesDown": {
@@ -184,9 +182,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 29,
-    "timeWeek": 36,
-    "timeMonth": 25,
+    "timeDay": 54,
+    "timeWeek": 40,
+    "timeMonth": 26,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2025-06-17": 34
@@ -209,7 +207,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 1366,
+      "2025-11-20": 55,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -572,8 +571,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   }
 ]
