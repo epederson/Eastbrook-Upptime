@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 672,
-    "timeDay": 300,
-    "timeWeek": 269,
-    "timeMonth": 226,
+    "timeDay": 293,
+    "timeWeek": 277,
+    "timeMonth": 229,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2025-11-22": 17,
@@ -71,8 +71,7 @@
       "2024-12-07": 31,
       "2024-12-06": 102,
       "2024-12-05": 72,
-      "2024-12-04": 72,
-      "2024-12-03": 15
+      "2024-12-04": 72
     }
   },
   {
@@ -87,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 406,
-    "timeDay": 370,
-    "timeWeek": 395,
-    "timeMonth": 402,
-    "timeYear": 414,
+    "timeDay": 363,
+    "timeWeek": 416,
+    "timeMonth": 406,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2025-08-19": 51
     }
@@ -107,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 415,
-    "timeDay": 389,
-    "timeWeek": 423,
+    "timeDay": 352,
+    "timeWeek": 403,
     "timeMonth": 493,
     "timeYear": 437,
     "dailyMinutesDown": {
@@ -128,17 +127,17 @@
     "slug": "help-desk",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "81.58%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "98.59%",
     "time": 1420,
-    "timeDay": 4940,
+    "timeDay": 5257,
     "timeWeek": 3031,
-    "timeMonth": 1714,
+    "timeMonth": 1716,
     "timeYear": 1778,
     "dailyMinutesDown": {
-      "2025-12-02": 251,
+      "2025-12-02": 245,
       "2025-12-01": 110,
       "2025-11-04": 23,
       "2025-11-01": 346,
@@ -162,7 +161,7 @@
       "2025-07-22": 88,
       "2025-07-21": 114,
       "2025-07-20": 251,
-      "2025-07-19": 175
+      "2025-07-19": 202
     }
   },
   {
@@ -177,8 +176,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 27,
-    "timeWeek": 17,
+    "timeDay": 24,
+    "timeWeek": 19,
     "timeMonth": 31,
     "timeYear": 30,
     "dailyMinutesDown": {
@@ -202,7 +201,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1379,
+      "2025-12-03": 57,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -565,8 +565,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   }
 ]
