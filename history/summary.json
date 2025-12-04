@@ -124,19 +124,19 @@
     "url": "$HELP_DESK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "76.54%",
-    "uptimeWeek": "89.53%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "78.29%",
+    "uptimeWeek": "89.52%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "98.56%",
-    "time": 1633,
+    "uptimeYear": "98.57%",
+    "time": 1634,
     "timeDay": 5313,
     "timeWeek": 4680,
     "timeMonth": 3271,
     "timeYear": 1949,
     "dailyMinutesDown": {
-      "2025-12-04": 295,
+      "2025-12-04": 296,
       "2025-12-03": 406,
       "2025-12-02": 245,
       "2025-12-01": 110,
@@ -159,7 +159,7 @@
       "2025-07-25": 279,
       "2025-07-24": 136,
       "2025-07-23": 175,
-      "2025-07-22": 88
+      "2025-07-22": 61
     }
   },
   {
@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 1332,
+      "2025-12-04": 1394,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
