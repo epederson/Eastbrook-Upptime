@@ -10,10 +10,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.73%",
-    "time": 670,
-    "timeDay": 281,
-    "timeWeek": 228,
-    "timeMonth": 223,
+    "time": 669,
+    "timeDay": 110,
+    "timeWeek": 208,
+    "timeMonth": 220,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-12-05": 18,
@@ -84,10 +84,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 406,
-    "timeDay": 393,
-    "timeWeek": 438,
-    "timeMonth": 417,
-    "timeYear": 414,
+    "timeDay": 352,
+    "timeWeek": 451,
+    "timeMonth": 409,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2025-08-19": 51
     }
@@ -104,8 +104,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 416,
-    "timeDay": 393,
-    "timeWeek": 494,
+    "timeDay": 469,
+    "timeWeek": 497,
     "timeMonth": 501,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -123,19 +123,19 @@
     "url": "$HELP_DESK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "67.75%",
-    "uptimeWeek": "81.67%",
+    "uptimeDay": "68.71%",
+    "uptimeWeek": "81.65%",
     "uptimeMonth": "95.78%",
-    "uptimeYear": "98.57%",
-    "time": 1801,
-    "timeDay": 5310,
-    "timeWeek": 4715,
-    "timeMonth": 3629,
-    "timeYear": 2049,
+    "uptimeYear": "98.58%",
+    "time": 1807,
+    "timeDay": 4135,
+    "timeWeek": 4755,
+    "timeMonth": 3659,
+    "timeYear": 2053,
     "dailyMinutesDown": {
-      "2025-12-06": 449,
+      "2025-12-06": 450,
       "2025-12-05": 304,
       "2025-12-04": 335,
       "2025-12-03": 406,
@@ -153,8 +153,7 @@
       "2025-10-24": 1198,
       "2025-10-23": 1440,
       "2025-10-22": 1011,
-      "2025-10-07": 16,
-      "2025-10-03": 28
+      "2025-10-07": 16
     }
   },
   {
@@ -169,9 +168,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 12,
+    "timeDay": 26,
     "timeWeek": 26,
-    "timeMonth": 31,
+    "timeMonth": 30,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2025-06-17": 34
@@ -194,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 1303,
+      "2025-12-06": 1420,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
