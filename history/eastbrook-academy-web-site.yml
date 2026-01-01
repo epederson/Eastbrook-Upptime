@@ -1,7 +1,7 @@
 url: $EASTBROOK_ACADEMY_MAIN_SITE
-status: down
-code: 503
-responseTime: 352
-lastUpdated: 2026-01-01T21:42:34.767Z
+status: up
+code: 200
+responseTime: 878
+lastUpdated: 2026-01-01T21:49:21.043Z
 startTime: 2022-12-21T18:27:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
