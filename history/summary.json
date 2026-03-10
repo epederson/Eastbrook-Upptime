@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 590,
-    "timeDay": 203,
-    "timeWeek": 156,
-    "timeMonth": 184,
+    "timeDay": 226,
+    "timeWeek": 151,
+    "timeMonth": 187,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2026-01-26": 70,
@@ -63,8 +63,7 @@
       "2025-03-20": 21,
       "2025-03-19": 20,
       "2025-03-16": 20,
-      "2025-03-12": 35,
-      "2025-03-10": 43
+      "2025-03-12": 35
     }
   },
   {
@@ -79,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 408,
-    "timeDay": 339,
-    "timeWeek": 375,
+    "timeDay": 211,
+    "timeWeek": 361,
     "timeMonth": 358,
-    "timeYear": 412,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2025-08-19": 51
@@ -100,10 +99,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 440,
-    "timeDay": 249,
-    "timeWeek": 388,
-    "timeMonth": 444,
-    "timeYear": 433,
+    "timeDay": 195,
+    "timeWeek": 351,
+    "timeMonth": 439,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2025-12-18": 26,
       "2025-06-09": 66,
@@ -120,18 +119,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "94.28%",
+    "uptime": "94.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.60%",
-    "time": 2025,
+    "uptimeYear": "81.33%",
+    "time": 2028,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2540,
+    "timeYear": 2544,
     "dailyMinutesDown": {
-      "2026-03-09": 75,
+      "2026-03-10": 69,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -226,7 +226,7 @@
     "uptimeYear": "98.07%",
     "time": 30,
     "timeDay": 4,
-    "timeWeek": 22,
+    "timeWeek": 20,
     "timeMonth": 25,
     "timeYear": 29,
     "dailyMinutesDown": {
@@ -248,7 +248,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "21.08%",
+    "uptime": "21.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -259,7 +259,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-09": 75,
+      "2026-03-10": 70,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -622,8 +623,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   }
 ]
