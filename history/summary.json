@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 590,
-    "timeDay": 671,
-    "timeWeek": 217,
+    "timeDay": 98,
+    "timeWeek": 214,
     "timeMonth": 207,
-    "timeYear": 638,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2026-01-26": 70,
       "2026-01-25": 34,
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 228,
-    "timeWeek": 334,
+    "timeDay": 224,
+    "timeWeek": 283,
     "timeMonth": 360,
-    "timeYear": 410,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2025-08-19": 51
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 439,
-    "timeDay": 346,
-    "timeWeek": 348,
-    "timeMonth": 428,
+    "timeDay": 438,
+    "timeWeek": 319,
+    "timeMonth": 436,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2025-12-18": 26,
@@ -118,18 +118,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "94.04%",
+    "uptime": "93.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "80.78%",
-    "time": 2032,
+    "uptimeYear": "80.51%",
+    "time": 2035,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2551,
+    "timeYear": 2555,
     "dailyMinutesDown": {
-      "2026-03-12": 67,
+      "2026-03-13": 73,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -227,7 +228,7 @@
     "uptimeYear": "98.07%",
     "time": 30,
     "timeDay": 4,
-    "timeWeek": 18,
+    "timeWeek": 12,
     "timeMonth": 24,
     "timeYear": 28,
     "dailyMinutesDown": {
@@ -249,7 +250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "21.02%",
+    "uptime": "21.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -260,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 67,
+      "2026-03-13": 73,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -623,8 +625,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   }
 ]
