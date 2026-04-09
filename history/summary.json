@@ -11,9 +11,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.78%",
     "time": 596,
-    "timeDay": 280,
-    "timeWeek": 198,
-    "timeMonth": 201,
+    "timeDay": 233,
+    "timeWeek": 218,
+    "timeMonth": 202,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2026-03-24": 66,
@@ -55,8 +55,7 @@
       "2025-04-30": 52,
       "2025-04-21": 16,
       "2025-04-15": 19,
-      "2025-04-13": 26,
-      "2025-04-09": 19
+      "2025-04-13": 26
     }
   },
   {
@@ -71,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 404,
-    "timeDay": 398,
-    "timeWeek": 332,
-    "timeMonth": 331,
-    "timeYear": 411,
+    "timeDay": 157,
+    "timeWeek": 309,
+    "timeMonth": 325,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2026-01-26": 55,
       "2025-08-19": 51
@@ -86,14 +85,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asset-management-system",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 439,
-    "timeDay": 439,
-    "timeWeek": 355,
+    "timeDay": 258,
+    "timeWeek": 327,
     "timeMonth": 357,
     "timeYear": 431,
     "dailyMinutesDown": {
@@ -112,18 +111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "91.93%",
+    "uptime": "91.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.38%",
-    "time": 2093,
+    "uptimeYear": "73.11%",
+    "time": 2096,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2655,
+    "timeYear": 2659,
     "dailyMinutesDown": {
-      "2026-04-08": 86,
+      "2026-04-09": 77,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -242,14 +242,14 @@
     "slug": "eastbrook-campus",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "96.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.05%",
     "time": 29,
-    "timeDay": 36,
+    "timeDay": 20,
     "timeWeek": 22,
-    "timeMonth": 20,
+    "timeMonth": 21,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2026-04-07": 56,
@@ -271,7 +271,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "20.49%",
+    "uptime": "20.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -282,7 +282,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-08": 86,
+      "2026-04-09": 77,
+      "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
@@ -645,8 +646,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 1440,
-      "2025-04-09": 1440
+      "2025-04-10": 1440
     }
   }
 ]
