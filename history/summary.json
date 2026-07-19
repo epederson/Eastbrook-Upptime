@@ -11,8 +11,8 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.65%",
     "time": 407,
-    "timeDay": 105,
-    "timeWeek": 157,
+    "timeDay": 163,
+    "timeWeek": 148,
     "timeMonth": 162,
     "timeYear": 305,
     "dailyMinutesDown": {
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 389,
-    "timeDay": 463,
-    "timeWeek": 338,
-    "timeMonth": 328,
+    "timeDay": 276,
+    "timeWeek": 309,
+    "timeMonth": 326,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-08-19": 51,
@@ -79,10 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
-    "timeDay": 343,
-    "timeWeek": 613,
-    "timeMonth": 616,
-    "timeYear": 490,
+    "timeDay": 409,
+    "timeWeek": 533,
+    "timeMonth": 609,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-12-18": 26
     }
@@ -93,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "84.81%",
+    "uptime": "84.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.71%",
-    "time": 2675,
+    "uptimeYear": "45.43%",
+    "time": 2676,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3015,
+    "timeYear": 3034,
     "dailyMinutesDown": {
       "2025-11-01": 200,
       "2025-11-04": 23,
@@ -118,7 +118,8 @@
       "2025-12-10": 275,
       "2025-12-11": 481,
       "2025-12-12": 127,
-      "2026-07-18": 89,
+      "2026-07-19": 106,
+      "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -329,9 +330,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.06%",
     "time": 28,
-    "timeDay": 13,
-    "timeWeek": 22,
-    "timeMonth": 30,
+    "timeDay": 19,
+    "timeWeek": 17,
+    "timeMonth": 29,
     "timeYear": 27,
     "dailyMinutesDown": {
       "2026-01-01": 22,
@@ -352,7 +353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "18.75%",
+    "uptime": "18.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -363,7 +364,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 89,
+      "2026-07-19": 106,
+      "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -726,8 +728,7 @@
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
-      "2025-07-20": 1440,
-      "2025-07-19": 1440
+      "2025-07-20": 1440
     }
   }
 ]
