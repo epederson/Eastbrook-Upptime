@@ -117,7 +117,7 @@
       "2025-12-10": 275,
       "2025-12-11": 481,
       "2025-12-12": 127,
-      "2026-08-08": 834,
+      "2026-08-08": 865,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -342,16 +342,16 @@
     "url": "$EASTBROOK_CAMPUS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastbrook-campus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "98.02%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "98.01%",
     "time": 28,
-    "timeDay": 12,
-    "timeWeek": 24,
-    "timeMonth": 25,
+    "timeDay": 34,
+    "timeWeek": 27,
+    "timeMonth": 26,
     "timeYear": 27,
     "dailyMinutesDown": {
       "2026-01-01": 22,
@@ -367,7 +367,7 @@
       "2026-07-21": 73,
       "2026-07-31": 63,
       "2026-08-04": 93,
-      "2026-08-08": 4
+      "2026-08-08": 32
     }
   },
   {
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 834,
+      "2026-08-08": 865,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
