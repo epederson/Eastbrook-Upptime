@@ -12,8 +12,8 @@
     "uptimeYear": "99.64%",
     "time": 393,
     "timeDay": 228,
-    "timeWeek": 166,
-    "timeMonth": 166,
+    "timeWeek": 164,
+    "timeMonth": 168,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-08-21": 15,
@@ -57,8 +57,8 @@
     "uptimeYear": "99.98%",
     "time": 391,
     "timeDay": 468,
-    "timeWeek": 415,
-    "timeMonth": 375,
+    "timeWeek": 379,
+    "timeMonth": 373,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2025-08-19": 51,
@@ -79,8 +79,8 @@
     "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 636,
-    "timeWeek": 624,
-    "timeMonth": 585,
+    "timeWeek": 654,
+    "timeMonth": 593,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2025-12-18": 26
@@ -96,7 +96,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.24%",
+    "uptimeYear": "37.22%",
     "time": 2709,
     "timeDay": 0,
     "timeWeek": 0,
@@ -117,7 +117,8 @@
       "2025-12-10": 275,
       "2025-12-11": 481,
       "2025-12-12": 127,
-      "2026-08-17": 1418,
+      "2026-08-18": 39,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -353,14 +354,14 @@
     "slug": "eastbrook-campus",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "97.99%",
     "time": 28,
     "timeDay": 47,
-    "timeWeek": 38,
-    "timeMonth": 29,
+    "timeWeek": 37,
+    "timeMonth": 30,
     "timeYear": 27,
     "dailyMinutesDown": {
       "2026-01-01": 22,
@@ -377,7 +378,7 @@
       "2026-07-31": 63,
       "2026-08-04": 93,
       "2026-08-08": 32,
-      "2026-08-17": 137
+      "2026-08-17": 122
     }
   },
   {
@@ -397,7 +398,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1418,
+      "2026-08-18": 39,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -760,8 +762,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   }
 ]
