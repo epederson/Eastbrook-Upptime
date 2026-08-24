@@ -11,10 +11,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.65%",
     "time": 392,
-    "timeDay": 219,
-    "timeWeek": 183,
-    "timeMonth": 179,
-    "timeYear": 216,
+    "timeDay": 62,
+    "timeWeek": 171,
+    "timeMonth": 175,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2025-10-23": 43,
       "2025-11-22": 17,
@@ -54,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 392,
-    "timeDay": 372,
-    "timeWeek": 492,
-    "timeMonth": 411,
+    "time": 393,
+    "timeDay": 467,
+    "timeWeek": 472,
+    "timeMonth": 417,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2026-01-26": 55,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 492,
-    "timeWeek": 656,
-    "timeMonth": 615,
-    "timeYear": 508,
+    "time": 476,
+    "timeDay": 902,
+    "timeWeek": 684,
+    "timeMonth": 630,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2025-12-18": 26
     }
@@ -94,12 +94,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.60%",
-    "time": 2733,
+    "uptimeYear": "35.58%",
+    "time": 2738,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3315,
+    "timeYear": 3324,
     "dailyMinutesDown": {
       "2025-11-01": 200,
       "2025-11-04": 23,
@@ -115,7 +115,8 @@
       "2025-12-10": 275,
       "2025-12-11": 481,
       "2025-12-12": 127,
-      "2026-08-23": 1386,
+      "2026-08-24": 41,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -357,14 +358,14 @@
     "slug": "eastbrook-campus",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "97.98%",
     "time": 28,
-    "timeDay": 55,
+    "timeDay": 54,
     "timeWeek": 46,
-    "timeMonth": 34,
+    "timeMonth": 35,
     "timeYear": 28,
     "dailyMinutesDown": {
       "2026-01-01": 22,
@@ -382,8 +383,7 @@
       "2026-08-04": 93,
       "2026-08-08": 32,
       "2026-08-17": 122,
-      "2026-08-18": 35,
-      "2026-08-23": 11
+      "2026-08-18": 35
     }
   },
   {
@@ -403,7 +403,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 1386,
+      "2026-08-24": 41,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -766,8 +767,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   }
 ]
