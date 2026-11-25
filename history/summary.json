@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 215,
-    "timeDay": 88,
-    "timeWeek": 80,
+    "timeDay": 107,
+    "timeWeek": 89,
     "timeMonth": 137,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 397,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 364,
+    "timeDay": 327,
+    "timeWeek": 362,
+    "timeMonth": 361,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-01-26": 55,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 625,
-    "timeWeek": 522,
-    "timeMonth": 533,
-    "timeYear": 548,
+    "time": 525,
+    "timeDay": 632,
+    "timeWeek": 532,
+    "timeMonth": 540,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2025-12-18": 26
     }
@@ -88,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "77.16%",
+    "uptime": "77.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.34%",
+    "uptimeYear": "10.08%",
     "time": 3969,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3987,
+    "timeYear": 4010,
     "dailyMinutesDown": {
       "2025-12-01": 110,
       "2025-12-02": 245,
@@ -111,7 +111,8 @@
       "2025-12-10": 275,
       "2025-12-11": 481,
       "2025-12-12": 127,
-      "2026-11-24": 458,
+      "2026-11-25": 366,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -451,8 +452,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.88%",
     "time": 28,
-    "timeDay": 56,
-    "timeWeek": 32,
+    "timeDay": 48,
+    "timeWeek": 34,
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
@@ -482,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ep",
     "status": "down",
-    "uptime": "16.90%",
+    "uptime": "16.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -493,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 458,
+      "2026-11-25": 366,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -856,8 +858,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   }
 ]
